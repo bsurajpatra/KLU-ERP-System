@@ -1,27 +1,22 @@
-# KLU-ERP-System
-
 # KL University ERP System
 
 ### Objective:
-To design and document an online ERP system for KL University that supports course management, user roles, and student services through Agile Scrum methodology.
+To document the design and functionality of a University ERP using Agile Scrum methodology in GitHub.
 
 ### Roles:
 - Administrator  
 - Officer  
 - Faculty  
-- Student
-
-### Scrum Process:
-Each user story is created as a GitHub Issue, implemented in a separate branch, and merged through pull requests that update this README file.
+- Student  
 
 ---
 
-## Sprint Overview
-| Sprint | User Stories Covered | Description |
-|--------|----------------------|--------------|
-| Sprint 1 | US1, US2 | User Registration, Role Management |
-| Sprint 2 | US3, US4 | Course & Faculty Management |
-| Sprint 3 | US5, US6 | Library & Hostel Management |
-| Sprint 4 | US7 | Reports & Fee Management |
+## 🏁 Scrum Process Overview
+| Sprint | User Stories | Focus Area |
+|--------|---------------|-------------|
+| Sprint 1 | US1, US2 | Registration & Role Management |
+| Sprint 2 | US3, US4 | Course and Library Management |
+
+Each User Story will be implemented as a separate branch and merged through Pull Requests that update this README.
 
 ---
