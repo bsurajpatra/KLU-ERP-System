@@ -48,3 +48,19 @@ Each role determines the level of access within the ERP system.
 
 **Sprint:** 1  
 **Status:** Completed
+
+
+## ✅ User Story 3: Course Management
+
+**Description:**  
+Faculty members can create, update, and manage courses for their department.  
+Students can view available courses and register for them during the enrollment period.
+
+**Acceptance Criteria:**  
+- Faculty can add or modify course details (course code, title, credits, semester).  
+- Students can view all available courses.  
+- Students can register or drop courses within deadlines.  
+- Admin can monitor course registrations.
+
+**Sprint:** 2  
+**Status:** Completed
