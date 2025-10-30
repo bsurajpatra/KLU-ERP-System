@@ -33,3 +33,18 @@ Fields include name, roll number, department, and contact info.
 
 **Sprint:** 1  
 **Status:** Completed
+
+
+## ✅ User Story 2: Role Management
+
+**Description:**  
+The administrator can create user accounts and assign roles such as Administrator, Officer, Faculty, and Student.  
+Each role determines the level of access within the ERP system.
+
+**Acceptance Criteria:**  
+- Admin can add, edit, and remove users.  
+- Role-based access control is clearly defined.  
+- Faculty can upload materials; Students can view them; Officers can generate reports.
+
+**Sprint:** 1  
+**Status:** Completed
