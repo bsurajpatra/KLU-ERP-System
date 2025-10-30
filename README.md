@@ -64,3 +64,19 @@ Students can view available courses and register for them during the enrollment 
 
 **Sprint:** 2  
 **Status:** Completed
+
+
+## ✅ User Story 4: Exam & Result Management
+
+**Description:**  
+Faculty members can enter and update student exam marks and grades.  
+Students can view their results and grade history online through the portal.
+
+**Acceptance Criteria:**  
+- Faculty can upload exam marks for each course.  
+- Admin verifies and publishes results.  
+- Students can view semester-wise grades and SGPA/CGPA.  
+- Officers can generate academic performance reports.
+
+**Sprint:** 2  
+**Status:** Completed
